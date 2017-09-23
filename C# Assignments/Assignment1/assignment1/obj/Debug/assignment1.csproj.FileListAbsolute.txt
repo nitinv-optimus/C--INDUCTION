@@ -1,0 +1,6 @@
+c:\users\nitin.vashisth\documents\visual studio 2015\Projects\assignment1\assignment1\bin\Debug\assignment1.exe.config
+c:\users\nitin.vashisth\documents\visual studio 2015\Projects\assignment1\assignment1\bin\Debug\assignment1.exe
+c:\users\nitin.vashisth\documents\visual studio 2015\Projects\assignment1\assignment1\bin\Debug\assignment1.pdb
+c:\users\nitin.vashisth\documents\visual studio 2015\Projects\assignment1\assignment1\obj\Debug\assignment1.csprojResolveAssemblyReference.cache
+c:\users\nitin.vashisth\documents\visual studio 2015\Projects\assignment1\assignment1\obj\Debug\assignment1.exe
+c:\users\nitin.vashisth\documents\visual studio 2015\Projects\assignment1\assignment1\obj\Debug\assignment1.pdb

@@ -1,0 +1,6 @@
+c:\users\nitin.vashisth\documents\visual studio 2015\Projects\Assignment14\Assignment14\bin\Debug\Assignment14.exe.config
+C:\Users\nitin.vashisth\Documents\Visual Studio 2015\Projects\Assignment14\Assignment14\bin\Debug\Assignment14.exe
+C:\Users\nitin.vashisth\Documents\Visual Studio 2015\Projects\Assignment14\Assignment14\bin\Debug\Assignment14.pdb
+C:\Users\nitin.vashisth\Documents\Visual Studio 2015\Projects\Assignment14\Assignment14\obj\Debug\Assignment14.csprojResolveAssemblyReference.cache
+C:\Users\nitin.vashisth\Documents\Visual Studio 2015\Projects\Assignment14\Assignment14\obj\Debug\Assignment14.exe
+C:\Users\nitin.vashisth\Documents\Visual Studio 2015\Projects\Assignment14\Assignment14\obj\Debug\Assignment14.pdb
