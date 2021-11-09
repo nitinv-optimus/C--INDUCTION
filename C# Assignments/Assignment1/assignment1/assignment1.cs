@@ -20,7 +20,6 @@ namespace assignment1
                 Console.WriteLine("Well...good luck with that!");
 
             Console.ReadLine();
-
         }
     }
 }
